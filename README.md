@@ -1,3 +1,3 @@
 # Leitor-Gerador-QR-Code
-###JAVA
+  #JAVA
 Aplicativo para leitura e geração de códigos QR.
